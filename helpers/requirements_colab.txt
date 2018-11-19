@@ -1,0 +1,6 @@
+fluidsynth==0.2
+pretty-midi==0.2.8
+pyFluidSynth==1.2.5
+pypianoroll==0.5.0
+torch==0.4.1
+torchvision==0.2.1
