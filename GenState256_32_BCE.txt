@@ -5,3 +5,4 @@ out2 = sigmoid
 epochs = 32
 chunk_size = 32
 chunk_overlap = 8
+threshold = 0.1
