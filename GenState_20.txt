@@ -1,0 +1,7 @@
+hidden_size = 256
+num_layers = 2
+loss_func = nn.BCEWithLogitsLoss()
+no sigmoid
+epochs = 20
+chunk_size = 20
+chunk_overlap = 10
