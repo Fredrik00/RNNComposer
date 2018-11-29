@@ -7,7 +7,7 @@ class pianoroll_dataset_batch(Dataset):
     """
     
     """
-    def __init__(self, root_dir, transform=None, name_as_tag=True,binarize=True):
+    def __init__(self, root_dir, transform=None, name_as_tag=True, binarize=True):
         """
         Args:
             root_dir (string): Directory with all the csv
